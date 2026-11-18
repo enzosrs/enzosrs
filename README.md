@@ -1,208 +1,161 @@
-<img width="100%" title="TEAM - SRS" alt="enzosrs" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=ＥＮＺＯ－ＳＲＳ&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Be%20Aware%20%7C%20Be%20Safe&descAlignY=70&descAlign=50&descSize=20"/>
+<img width="100%" title="ENZO SRS" alt="enzosrs" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=ＥＮＺＯ－ＳＲＳ&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20Ideas%20Into%20Code%20⚡&descAlignY=70&descAlign=50&descSize=20"/>
 
 <table border="0">
  <tr>
-    <td>
+    <td width="55%">
       <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ENZO+SRS;"/></p>
      <p align="center">
-       <img width="160" src="https://komarev.com/ghpvc/?username=enzosrs&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="enzosrs"/>
+       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=3500&color=7AA2F7&lines=Hi+There!+👋;+I'm+Sakil+Rana+(ENZO+SRS);+Full-Stack+Developer+🚀;+Bot+%26+Automation+Architect+🤖;+Open-Source+Creator+⭐;"/>
+     </p>
+     <p align="center">
+       <img width="170" src="https://komarev.com/ghpvc/?username=enzosrs&label=Profile%20Views&color=1a1b27&style=for-the-badge" alt="Profile Views"/>
      </p>
     </td>
-    <td align="center">
-      <img alt="coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+    <td align="center" width="45%">
+      <img alt="coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
    </td>  
  </tr>  
 </table>
 
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> MY INFORMATION :</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enzosrs&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+## ⭐ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/enzosrs/upi-gateway">
+    <img width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=enzosrs&repo=upi-gateway&theme=tokyonight&show_owner=true" alt="upi-gateway" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+## 👨‍💻 About Me
 
 ```javascript
 const me = {
   name: "Sakil Rana",
-  username: "enzosrs",
-  age: 20,
+  handle: "enzosrs",
   country: "India",
-  profession: ["Game Dev", "Web Dev", "App Dev", "Telegram Bot Dev"],
-  favoriteLanguages: ["JavaScript", "Python", "PHP", "HTML", "CSS"],
-  hobbies: ["gaming", "music", "coding"],
-
-  profile() {
-    return `Name: ${this.name}\nUsername: ${this.username}\nAge: ${this.age}\nCountry: ${this.country}\nProfessions: ${this.profession.join(", ")}\nFavorite Languages: ${this.favoriteLanguages.join(", ")}\nHobbies: ${this.hobbies.join(", ")}`;
-  }
+  community: "https://t.me/devcommunityx",
+  roles: [
+    "Full-Stack Web & API Developer",
+    "Telegram Bot & Automation Architect",
+    "Cloud & Database Systems",
+    "Open-Source Contributor"
+  ],
+  stack: ["Python", "FastAPI", "JavaScript", "Node.js", "Cloudflare D1", "SQLite"],
+  currentFocus: "Building fast, zero-fee payment solutions & developer tools ⚡"
 };
-
-console.log(me.profile());
 ```
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-
-## <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif" width="40px" height="40px"> Connect With Me
-
 <p align="center">
-  <a href="https://t.me/devcommunityx" target="_blank"><img title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="mailto:sakilrana191@gmail.com"><img title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/enzosrs" target="_blank"><img title="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/dev.slorito" target="_blank"><img title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+## 🌐 Connect With Me
 
-## ⚙️ My Favorite Tools And Technologies
+<p align="center">
+  <a href="https://t.me/devcommunityx" target="_blank">
+    <img title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://github.com/enzosrs" target="_blank">
+    <img title="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="mailto:sakilrana191@gmail.com">
+    <img title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/dev.slorito" target="_blank">
+    <img title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
 
-> Tools and technologies that I work with and enjoy using
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-      <br>SQLite
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
-      <br>Cloudflare
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android" />
-      <br>Android
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
-      <br>Unity
-    </td>
-  </tr>
-</table>
+## ⚙️ Tools & Technologies
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,nodejs,js,ts,react,html,css,tailwind&theme=dark" alt="Skills Row 1" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=cloudflare,sqlite,postgres,redis,nginx,docker,git,github,linux,bash&theme=dark" alt="Skills Row 2" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=postman,vscode,cpp,cs,unity,androidstudio&theme=dark" alt="Skills Row 3" />
+</p>
 
-## 📊 GitHub Profile Stats
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/enzosrs">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=enzosrs&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-    <img width="48%" src="https://streak-stats.demolab.com/?user=enzosrs&theme=dark&hide_border=false" alt="GitHub Streak" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=enzosrs&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img width="48%" src="https://streak-stats.demolab.com/?user=enzosrs&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/enzosrs">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosrs&theme=dark&border_radius=10&layout=compact&langs_count=8" alt="Top Languages" />
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzosrs&theme=dark" alt="Profile Details" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosrs&theme=tokyonight&border_radius=10&layout=compact&langs_count=8&hide_border=false" alt="Top Languages" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzosrs&theme=tokyonight" alt="Profile Details" />
   </a>
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <a href="https://github.com/enzosrs">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=enzosrs&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true" alt="Activity Graph" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=enzosrs&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+## ☕ Dev Quote & Humor
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=false" alt="Dev Joke" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
