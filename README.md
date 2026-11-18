@@ -5,7 +5,7 @@
     <td width="55%">
       <br>
      <p align="center">
-       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=3500&color=7AA2F7&lines=Hi+There!;+I'm+Sakil+Rana+(ENZO+SRS);+Full-Stack+Developer;+Bot+%26+Automation+Architect;+Open-Source+Creator;"/>
+       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=3500&color=7AA2F7&lines=Hi+There!;+I'm+Sakil+Rana;+Building+tools+and+bots;+Python+%26+JavaScript+developer;"/>
      </p>
      <p align="center">
        <img width="170" src="https://komarev.com/ghpvc/?username=enzosrs&label=Profile%20Views&color=1a1b27&style=for-the-badge" alt="Profile Views"/>
@@ -26,17 +26,21 @@
 ```javascript
 const me = {
   name: "Sakil Rana",
-  handle: "enzosrs",
-  country: "India",
+  username: "enzosrs",
+  location: "India",
   community: "https://t.me/devcommunityx",
-  roles: [
-    "Full-Stack Web & API Developer",
-    "Telegram Bot & Automation Architect",
-    "Cloud & Database Systems",
-    "Open-Source Contributor"
+
+  whatIDo: [
+    "Building web applications & APIs",
+    "Writing Telegram bots & automation scripts",
+    "Working mostly with Python & JavaScript"
   ],
-  stack: ["Python", "FastAPI", "JavaScript", "Node.js", "Cloudflare D1", "SQLite"],
-  currentFocus: "Building fast, zero-fee payment solutions & developer tools"
+
+  interests: ["coding", "gaming", "music", "security"],
+
+  sayHello() {
+    return "Always open to chat about code or interesting projects.";
+  }
 };
 ```
 
@@ -76,19 +80,6 @@ const me = {
   <img src="https://skillicons.dev/icons?i=cloudflare,sqlite,postgres,redis,nginx,docker,git,github,linux,bash&theme=dark" alt="Skills Row 2" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=postman,vscode,cpp,cs,unity,androidstudio&theme=dark" alt="Skills Row 3" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-## GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/enzosrs">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=enzosrs&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img width="48%" src="https://streak-stats.demolab.com/?user=enzosrs&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </a>
 </p>
 
 <p align="center">
