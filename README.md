@@ -21,16 +21,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enzosrs&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
 ## About Me
 
 ```javascript
@@ -98,25 +88,6 @@ const me = {
   <a href="https://github.com/enzosrs">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=enzosrs&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <img width="48%" src="https://streak-stats.demolab.com/?user=enzosrs&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/enzosrs">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosrs&theme=tokyonight&border_radius=10&layout=compact&langs_count=8&hide_border=false" alt="Top Languages" />
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzosrs&theme=tokyonight" alt="Profile Details" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-## Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/enzosrs">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=enzosrs&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </p>
 
