@@ -1,11 +1,11 @@
-<img width="100%" title="ENZO SRS" alt="enzosrs" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=ＥＮＺＯ－ＳＲＳ&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20Ideas%20Into%20Code%20⚡&descAlignY=70&descAlign=50&descSize=20"/>
+<img width="100%" title="ENZO SRS" alt="enzosrs" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=ＥＮＺＯ－ＳＲＳ&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20Ideas%20Into%20Code&descAlignY=70&descAlign=50&descSize=20"/>
 
 <table border="0">
  <tr>
     <td width="55%">
       <br>
      <p align="center">
-       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=3500&color=7AA2F7&lines=Hi+There!+👋;+I'm+Sakil+Rana+(ENZO+SRS);+Full-Stack+Developer+🚀;+Bot+%26+Automation+Architect+🤖;+Open-Source+Creator+⭐;"/>
+       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=3500&color=7AA2F7&lines=Hi+There!;+I'm+Sakil+Rana+(ENZO+SRS);+Full-Stack+Developer;+Bot+%26+Automation+Architect;+Open-Source+Creator;"/>
      </p>
      <p align="center">
        <img width="170" src="https://komarev.com/ghpvc/?username=enzosrs&label=Profile%20Views&color=1a1b27&style=for-the-badge" alt="Profile Views"/>
@@ -21,7 +21,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=enzosrs&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
@@ -31,19 +31,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## ⭐ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/enzosrs/upi-gateway">
-    <img width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=enzosrs&repo=upi-gateway&theme=tokyonight&show_owner=true" alt="upi-gateway" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-## 👨‍💻 About Me
+## About Me
 
 ```javascript
 const me = {
@@ -58,7 +46,7 @@ const me = {
     "Open-Source Contributor"
   ],
   stack: ["Python", "FastAPI", "JavaScript", "Node.js", "Cloudflare D1", "SQLite"],
-  currentFocus: "Building fast, zero-fee payment solutions & developer tools ⚡"
+  currentFocus: "Building fast, zero-fee payment solutions & developer tools"
 };
 ```
 
@@ -66,7 +54,7 @@ const me = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://t.me/devcommunityx" target="_blank">
@@ -90,7 +78,7 @@ const me = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,fastapi,django,nodejs,js,ts,react,html,css,tailwind&theme=dark" alt="Skills Row 1" />
@@ -104,7 +92,7 @@ const me = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/enzosrs">
@@ -124,7 +112,7 @@ const me = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <a href="https://github.com/enzosrs">
@@ -136,7 +124,7 @@ const me = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -144,16 +132,6 @@ const me = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-## ☕ Dev Quote & Humor
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=false" alt="Dev Joke" />
 </p>
 
 <p align="center">
